@@ -5,7 +5,7 @@
 
 ## CSharp
 
-* [6.0](src/CSharp 6.0/#README.ipynb)
+* [6.0](./src/CSharp 6.0/#README.ipynb)
 * [7.0](src/CSharp 7.0/#README.ipynb)
 * [8.0](src/CSharp 8.0/#README.ipynb)
 * [9.0](src/CSharp 9.0/#README.ipynb)
