@@ -1,4 +1,5 @@
 # [C#](#README.ipynb)
 
-* [For](For.ipynb)
+* [for](for.ipynb)
+* [foreach](foreach.ipynb)
 * ...
