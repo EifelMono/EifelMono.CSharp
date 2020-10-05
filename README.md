@@ -1,5 +1,6 @@
-# EifelMono.CSharp github repro
+# EifelMono.CSharp
 
+## my CSharp stuff
 * with CodeSpaces
 * and .NET Interactive Notebooks
 
