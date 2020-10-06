@@ -1,21 +1,21 @@
 # Keys
 
-## <kbd>&lt;kbd&gt;Html&lt;/kbd&gt;</kbd> 
+## Html &lt;kbd&gt;Html&lt;/kbd&gt; 
 
 ### ⌘ macOS  
 
-| OS                      | ⌘ macOS                 | Html |
-|:------------------------|:------------------------|:-----|
-|                         | <kbd>⌘ Command</kbd>    |<kbd>&lt;kbd&gt;⌘ Command&lt;/kbd&gt;</kbd> |
-|                         | <kbd>⌥ Option</kbd>     |<kbd>&lt;kbd&gt;⌥ Option&lt;/kbd&gt;</kbd> |
-|                         | <kbd>⌃ Control</kbd>    |<kbd>&lt;kbd&gt;⌃ Control&lt;/kbd&gt;</kbd> |
+| OS                      | ⌘ macOS                 | Html                             |
+|:------------------------|:------------------------|:---------------------------------|
+|                         | <kbd>⌘ Command</kbd>    | &lt;kbd&gt;⌘ Command&lt;/kbd&gt; |
+|                         | <kbd>⌥ Option</kbd>     | &lt;kbd&gt;⌥ Option&lt;/kbd&gt;  |
+|                         | <kbd>⌃ Control</kbd>    | &lt;kbd&gt;⌃ Control&lt;/kbd&gt; |
 
 ### ⌘ Windows  
-| OS                      | ⌘ macOS                | ⊞ Windows                 |
-|:------------------------|:-----------------------|:------------------------|
-|                         | <kbd>⌘ Command</kbd>   | <kbd>⊞ Windows</kbd>   |
-|                         | <kbd>⌥ Option</kbd>    | <kbd>Alt</kbd>           |
-|                         | <kbd>⌃ Control</kbd>   | <kbd>Ctrl</kbd>         |
+| OS                      | ⌘ macOS                | ⊞ Windows            |
+|:------------------------|:-----------------------|:---------------------|
+|                         | <kbd>⌘ Command</kbd>   | <kbd>⊞ Windows</kbd> |
+|                         | <kbd>⌥ Option</kbd>    | <kbd>Alt</kbd>       |
+|                         | <kbd>⌃ Control</kbd>   | <kbd>Ctrl</kbd>      |
 
 ### Cursor
 | Cursor         |                         |                   |                    |                     |
