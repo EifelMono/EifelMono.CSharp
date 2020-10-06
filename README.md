@@ -4,6 +4,7 @@
 
 * with CodeSpaces
 * and .NET Interactive Notebooks
+* [Editor ShortCuts](ShortCuts/%23README.md)
 
 ## CSharp
 
@@ -14,3 +15,4 @@
 * [C# 7.0](https://github.com/EifelMono/EifelMono.CSharp/tree/main/src/CSharp%207.0/%23README.md)
 * [C# 8.0](https://github.com/EifelMono/EifelMono.CSharp/tree/main/src/CSharp%208.0/%23README.md)
 * [C# 9.0](https://github.com/EifelMono/EifelMono.CSharp/tree/main/src/CSharp%209.0/%23README.md)
+ 
