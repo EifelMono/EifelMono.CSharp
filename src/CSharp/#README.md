@@ -2,9 +2,9 @@
 
 ## stuff
 
-* [Anonymous Type](AnonymousType.ipynb)
-* [Dictionary](Dictionary.ipynb)
+* [Anonymos Type](AnonymosType.ipynb)
 * [deconstruction](Deconstruction.ipynb)
+* [Dictionary](Dictionary.ipynb)
 * [for](for.ipynb)
 * [foreach](foreach.ipynb)
 * [modulo](modulo.ipynb)
