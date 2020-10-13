@@ -7,11 +7,11 @@
 <br/>
 
 
-## Stuff
+## Html help stuff
 
 * [Html](%23Html.md)
 
 
-## xxx
+## Functions
 
 * [Font](Font.md)

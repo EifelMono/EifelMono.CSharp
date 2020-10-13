@@ -2,8 +2,8 @@
 
 ## Visual Studio
 
-###Greater (German Keyboard)
+### Greater (German Keyboard)
 <kbd>Ctrl</kbd><kbd>⇤ Shift</kbd><kbd>.</kbd>
 
-###Less (German Keyboard)
+### Less (German Keyboard)
 <kbd>Ctrl</kbd><kbd>⇤ Shift</kbd><kbd>,</kbd>
