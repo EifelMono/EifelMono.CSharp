@@ -15,3 +15,4 @@
 ## Functions
 
 * [Font](Font.md)
+* [Multiple Caret](MultipleCaret.md)
